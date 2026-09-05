@@ -1,3 +1,6 @@
 /data
 /images
 /output
+.env
+*-checkpoint.ipynb
+.virtual_documents
